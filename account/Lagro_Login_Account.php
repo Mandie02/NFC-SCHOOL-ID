@@ -1,3 +1,9 @@
+<?php
+    include './database/function.php';
+
+    
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
